@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    display: block;
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    background-color: maroon;
+    width: 400px;
+    border-left: 0px;
+    
+
+}
+
+#buttons{
+    disaplay: flex;
+    justify-content: space-between;
+}
+.profile{
+    background-color: maroon;
+    padding: 20px;
+}
+#increment{
+    background-color: red;
+}
+#save-btn{
+    background-color: green;
+}
